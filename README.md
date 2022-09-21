@@ -1,4 +1,4 @@
-# DSF-MaternalAdversity-
+# DSF-MaternalAdversity
 This is a repository for a proposed project for the UA Data Science Fellows Program. This repository will include a project description (below), reproducible R code, project results, and dissemination.
 
 Licensed under GNU General Public License v3.0
