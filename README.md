@@ -3,7 +3,7 @@ This is a repository for a proposed project for the UA Data Science Fellows Prog
 
 Licensed under GNU General Public License v3.0
 
-A recently submitted abstract (under review) for the 2023 Biennial Meeting of the Society for Research in Child Development will serve as the project description: 
+This project builds on a recently submitted abstract (under review) for the 2023 Biennial Meeting of the Society for Research in Child Development: 
 
 Title: Adverse Experiences among Mothers with Opioid Use Disorder: Implications for Caregiving Behavior and Mother-Infant Bonding
 
